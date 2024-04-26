@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue"]=self["webpackChunkvue"]||[]).push([[907],{2907:function(u,e,t){t.r(e),t.d(e,{default:function(){return f}});var n=function(){var u=this,e=u._self._c;return e("div",[u._v("无权访问 "),e("router-link",{attrs:{to:"/"}},[u._v("返回首页")])],1)},r=[],l={name:"Auth"},s=l,a=t(1656),c=(0,a.A)(s,n,r,!1,null,"0d96534e",null),f=c.exports}}]);
+//# sourceMappingURL=907.e1e8cc52.js.map

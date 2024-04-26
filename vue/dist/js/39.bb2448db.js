@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue"]=self["webpackChunkvue"]||[]).push([[39],{4039:function(u,e,n){n.r(e),n.d(e,{default:function(){return f}});var t=function(){var u=this,e=u._self._c;return e("div",[u._v(" 404找不到界面 "),e("router-link",{attrs:{to:"/"}},[u._v("返回首页")])],1)},r=[],c={name:"404"},l=c,s=n(1656),a=(0,s.A)(l,t,r,!1,null,"5c92525c",null),f=a.exports}}]);
+//# sourceMappingURL=39.bb2448db.js.map

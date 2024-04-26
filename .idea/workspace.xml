@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="81d4b0e3-7bb9-4386-8321-ad9247918de4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Vue Single File Component" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2f4loHeVIw7hsdNfeBrsPYBM2Br" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="17" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vue/public" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.1493671" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Chan9zero\Desktop\biyesheji-1\project-1\vue\public" />
+      <recent name="C:\Users\Chan9zero\Desktop\biyesheji-1\project-1\vue\src\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Chan9zero\Desktop\biyesheji-1\project-1\vue\src\assets" />
+      <recent name="C:\Users\Chan9zero\Desktop\biyesheji-1\project-1\vue\src\assets\css" />
+      <recent name="C:\Users\Chan9zero\Desktop\biyesheji-1\project-1\vue\src\views\manager" />
+      <recent name="C:\Users\Chan9zero\Desktop\biyesheji-1\project-1\vue\src\views" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringbootApplication">
+    <configuration name="SpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.springboot.SpringbootApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="serve" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/vue/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.serve" />
+      <item itemvalue="Spring Boot.SpringbootApplication" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81d4b0e3-7bb9-4386-8321-ad9247918de4" name="Changes" comment="" />
+      <created>1713068404056</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713068404056</updated>
+      <workItem from="1713068405406" duration="165000" />
+      <workItem from="1713068588271" duration="1228000" />
+      <workItem from="1713069842542" duration="252000" />
+      <workItem from="1713070173020" duration="107000" />
+      <workItem from="1713070358664" duration="157000" />
+      <workItem from="1713070545147" duration="97000" />
+      <workItem from="1713070673437" duration="51000" />
+      <workItem from="1713070742374" duration="636000" />
+      <workItem from="1713072446221" duration="99000" />
+      <workItem from="1713072557017" duration="8000" />
+      <workItem from="1713072588066" duration="4000" />
+      <workItem from="1713072623156" duration="100000" />
+      <workItem from="1713072897235" duration="17000" />
+      <workItem from="1713073584653" duration="420000" />
+      <workItem from="1713074098628" duration="743000" />
+      <workItem from="1713074990081" duration="16000" />
+      <workItem from="1713075012664" duration="67000" />
+      <workItem from="1713075216220" duration="406000" />
+      <workItem from="1713075687502" duration="20000" />
+      <workItem from="1713075746517" duration="209000" />
+      <workItem from="1713075988472" duration="149000" />
+      <workItem from="1713076168339" duration="62000" />
+      <workItem from="1713076345951" duration="256000" />
+      <workItem from="1713076613697" duration="68000" />
+      <workItem from="1713076699215" duration="844000" />
+      <workItem from="1713077560315" duration="2433000" />
+      <workItem from="1713080032828" duration="484000" />
+      <workItem from="1713080951856" duration="1388000" />
+      <workItem from="1713091726049" duration="725000" />
+      <workItem from="1713102371138" duration="555000" />
+      <workItem from="1713161593930" duration="5972000" />
+      <workItem from="1713174032310" duration="3976000" />
+      <workItem from="1713236495769" duration="970000" />
+      <workItem from="1713338173548" duration="15272000" />
+      <workItem from="1713409772837" duration="11768000" />
+      <workItem from="1713509572220" duration="12460000" />
+      <workItem from="1713599973690" duration="1849000" />
+      <workItem from="1713668641530" duration="3672000" />
+      <workItem from="1713674277813" duration="942000" />
+      <workItem from="1713675448066" duration="13684000" />
+      <workItem from="1713755278292" duration="15999000" />
+      <workItem from="1713844018948" duration="9139000" />
+      <workItem from="1713884501879" duration="2287000" />
+      <workItem from="1713927927954" duration="14560000" />
+      <workItem from="1714014955680" duration="4179000" />
+      <workItem from="1714025420938" duration="6035000" />
+      <workItem from="1714060604032" duration="93000" />
+      <workItem from="1714100999310" duration="1438000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.springframework.beans.factory.BeanNotOfRequiredTypeException" package="org.springframework.beans.factory" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
